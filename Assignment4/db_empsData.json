@@ -1,0 +1,32 @@
+{
+  "empsData": [
+    {
+      "empno": 1001,
+      "ename": "R Rohan",
+      "job": "Manager",
+      "sal": 8000,
+      "deptno": 10
+    },
+    {
+      "empno": 1002,
+      "ename": "Dheeraj J",
+      "job": "Consultant",
+      "sal": 7000,
+      "deptno": 20
+    },
+    {
+      "empno": 1003,
+      "ename": "Jeevan S",
+      "job": "Sales",
+      "sal": 8000,
+      "deptno": 30
+    },
+    {
+      "empno": "1004",
+      "ename": "Suresh ",
+      "job": "Manager",
+      "sal": "6000",
+      "deptno": "10"
+    }
+  ]
+}
