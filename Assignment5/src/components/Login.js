@@ -14,7 +14,7 @@ function Login() {
     function loginButton_click()
     { 
       loginServiceObj.getLogin().then((resData) => {
-        setResult(resData.data);
+        setResult(resData.users);
     });
 
       const queryString = location.search; // returns the query string from the current url      
